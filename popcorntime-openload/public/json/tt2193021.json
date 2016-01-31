@@ -1,0 +1,465 @@
+[
+	{
+		"id": "1",
+		"imdb": "tt2193021",
+		"title": "Arrow",
+		"original": "Arrow",
+		"year": "2012-Atual",
+		"runtime": "42min",
+		"rating": "8.1",
+		"overview": "4",
+		"episodes": "55",
+		"date": "10 de Outubro de 2012",
+		"description": "Playboy, milionário e mulherengo, Oliver Queen (Stephen Amell) está presumivelmente morto há 5 anos, quando um acidente de iate causou o desaparecimento dele, de seu pai, Robert (Jamey Sheridan), e Sara Lance, irmã de sua então namorada Laurel (Katie Cassidy). Mas Ollie sobreviveu e, preso em uma ilha, ele aprendeu a lutar por sua vida. De volta à civilização em Starling City, ele é um homem mudado e está decidido a honrar a memória do pai e livrar a cidade da corrupção. Disfarçado, ele usa as habilidades que aprendeu durante seu tempo de reclusão para isso, e ao mesmo tempo precisa esconder sua nova identidade da mãe, Moira (Susanna Thompson), da irmã, Thea (Willa Holland) e dos amigos.",
+		"poster_l": "public/poster_l/tt2193021.jpg",
+		"genre": "Ação, Aventura, Crime",
+		"youtube": "https:\/\/youtube.com\/embed\/Ws9X6I5CvcE\/",	
+		"season": [
+		{
+			"one" : [
+			{
+				"name": "1ª temporada",
+				"year": "2012",
+				"overview": "23",
+				"episodes" : [ 
+				{
+					"ep": "1",
+					"name": "Piloto",
+					"date": "10 de Outubro de 2012",			
+					"description" : "Laurel é alvo de uma violenta Tríade Chinesa e da cruel mercenária China White. Enquanto isso, Oliver é convidado para assumir a empresa de sua família.",
+					"quality": "720p",
+					"photo": "public/thumbnail/tt2193021-1-1.jpg",
+					"language": "Português, Inglês",
+					"magnet": "magnet:?xt=urn:btih:9dce9c9f84c560be50938d66f34c7f9959b0f580&dn=Arrow.1%26ordf%3B.Temporada.%5B2012.DUAL.AUDIO%5D.BDRip.720p&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337",
+					"adfly": "http:\/\/adf.ly\/1V2LF3",
+					"embed": [
+					{
+						"br" : "https:\/\/openload.co\/embed\/qbGY_sPs5ng\/",
+						"en" : "https:\/\/openload.co\/embed\/Ilu3_EkdSZs\/"
+					}]				
+				}, 
+				{
+					"ep": "2",
+					"name": "Honra Teu Pai",
+					"date": "17 de Outubro de 2012",				
+					"description" : "Laurel tenta mover um processo contra MArtin Somers, traficante de drogas que está na lista de Oliver. Enquanto isso, ele tenta se reconectar com a família ao mesmo tempo que recusa os esforços da mãe de o colocar na presidência da Queen Consilidated. ",
+					"quality": "720p",
+					"photo": "public/thumbnail/tt2193021-1-2.jpg",
+					"language": "Português, Inglês",
+					"magnet": "magnet:?xt=urn:btih:9dce9c9f84c560be50938d66f34c7f9959b0f580&dn=Arrow.1%26ordf%3B.Temporada.%5B2012.DUAL.AUDIO%5D.BDRip.720p&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337",
+					"adfly": "http:\/\/adf.ly\/1V2LF3",
+					"embed": [
+					{
+						"br" : "https:\/\/openload.co\/embed\/Cn_yRHBogMk\/",
+						"en" : "https:\/\/openload.co\/embed\/4_rzXd8S1sM\/"
+					}]		
+				},
+				{
+					"ep": "3",
+					"name": "Pistoleiro Solitário",
+					"date": "24 de Outubro de 2012",				
+					"description" : "Oliver fica surpreso quando alguém atira em um de seus alvos e o mata. Como seu plano é levar as pessoas à justiça, Oliver não gosta da 'ajuda' e procura pelo atirador. Logo ele descobre que o homem, Deadshot (convidado especial Michael Rowe), está matando homens de negócio que participarão do leilão de uma companhia de energia.",
+					"quality": "720p",
+					"photo": "public/thumbnail/tt2193021-1-3.jpg",
+					"language": "Português, Inglês",
+					"magnet": "magnet:?xt=urn:btih:9dce9c9f84c560be50938d66f34c7f9959b0f580&dn=Arrow.1%26ordf%3B.Temporada.%5B2012.DUAL.AUDIO%5D.BDRip.720p&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337",
+					"adfly": "http:\/\/adf.ly\/1V2LF3",
+					"embed": [
+					{
+						"br" : "https:\/\/openload.co\/embed\/_hUXkFYIQRA\/",
+						"en" : "https:\/\/openload.co\/embed\/tvnscHUU0ao\/"
+					}]			
+				},
+				{
+					"ep": "4",
+					"name": "Um Homem Inocente",
+					"date": "31 de Outubro de 2012",				
+					"description" : "Oliver ainda não sabe como reconquistar Laurel, mas uma conversa com Thea lhe dá a inspiração que ele precisa. Investigando um caso suspeito de assassinato, Oliver descobre que um homem inocente, Peter Declan (convidado especial Lane Edwards), sofreu armação de um dos alvos em sua lista.",
+					"quality": "720p",
+					"photo": "public/thumbnail/tt2193021-1-4.jpg",
+					"language": "Português, Inglês",
+					"magnet": "magnet:?xt=urn:btih:9dce9c9f84c560be50938d66f34c7f9959b0f580&dn=Arrow.1%26ordf%3B.Temporada.%5B2012.DUAL.AUDIO%5D.BDRip.720p&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337",
+					"adfly": "http:\/\/adf.ly\/1V2LF3",
+					"embed": [
+					{
+						"br" : "https:\/\/openload.co\/embed\/E3e0TXbZJso\/",
+						"en" : "https:\/\/openload.co\/embed\/rx7rPFw0YSo\/"
+					}]			
+				},
+				{
+					"ep": "5",
+					"name": "Estragado",
+					"date": "07 de novembro de 2012",			
+					"description" : "Lance prende Oliver por assassinato, e o magnata avisa que só deixará Laurel o representar. Ela aceita o caso, o que complica sua relação com o pai. Oliver se oferece para passar pelo detector de mentiras, porém a situação fica tensa quando Lance pergunta ao rapaz se ele estava sozinho na ilha. Com isso, vemos um flashback de Oliver no momento que ele conseguiu sua primeira cicatriz, uma cortesia de Deathstroke.",
+					"quality": "720p",
+					"photo": "public/thumbnail/tt2193021-1-5.jpg",
+					"language": "Português, Inglês",
+					"magnet": "magnet:?xt=urn:btih:9dce9c9f84c560be50938d66f34c7f9959b0f580&dn=Arrow.1%26ordf%3B.Temporada.%5B2012.DUAL.AUDIO%5D.BDRip.720p&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337",
+					"adfly": "http:\/\/adf.ly\/1V2LF3",
+					"embed": [
+					{
+						"br" : "https:\/\/openload.co\/embed\/tvnscHUU0ao\/",
+						"en" : "https:\/\/openload.co\/embed\/_hUXkFYIQRA\/"
+					}]				
+				},
+				{
+					"ep": "6",
+					"name": "Legados",
+					"date": "14 de Novembro de 2012",			
+					"description" : "Quando um grupo de assaltantes de banco, que se denominam a Gangue Royal Flush, ameaça Starling City, Oliver é forçado a repensar a sua missão e decidir se deve se ater somente à lista do seu pai. Diggle impulsiona Oliver a ver além da lista e ajudar àqueles que realmente precisam dele.",
+					"quality": "720p",
+					"photo": "public/thumbnail/tt2193021-1-6.jpg",
+					"language": "Português, Inglês",
+					"magnet": "magnet:?xt=urn:btih:9dce9c9f84c560be50938d66f34c7f9959b0f580&dn=Arrow.1%26ordf%3B.Temporada.%5B2012.DUAL.AUDIO%5D.BDRip.720p&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337",
+					"adfly": "http:\/\/adf.ly\/1V2LF3",
+					"embed": [
+					{
+						"br" : "https:\/\/openload.co\/embed\/CO2kHROLEFA\/",
+						"en" : "https:\/\/openload.co\/embed\/RufU93D4eQw\/"
+					}]				
+				},
+				{
+					"ep": "7",
+					"name": "Musa de Fogo",
+					"date": "28 de Novembro de 2012",			
+					"description" : "Huntress, que é a filha do chefão da máfia Frank Bertinelli, chega a Starling City. Oliver fica apaixonado por ela, mas logo descobre que ela esconde alguns segredos sombrios. Enquanto isso, Tommy é pego de surpresa pelos acontecimentos e se volta para Laurel em busca de ajuda.",
+					"quality": "720p",
+					"photo": "public/thumbnail/tt2193021-1-7.jpg",
+					"language": "Português, Inglês",
+					"magnet": "magnet:?xt=urn:btih:9dce9c9f84c560be50938d66f34c7f9959b0f580&dn=Arrow.1%26ordf%3B.Temporada.%5B2012.DUAL.AUDIO%5D.BDRip.720p&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337",
+					"adfly": "http:\/\/adf.ly\/1V2LF3",
+					"embed": [
+					{
+						"br" : "https:\/\/openload.co\/embed\/lc3ucKZerFY\/",
+						"en" : "https:\/\/openload.co\/embed\/YiTqPI0IJ7c\/"
+					}]				
+				},
+				{
+					"ep": "8",
+					"name": "Vingança",
+					"date": "5 de Dezembro de 2012",			
+					"description" : "Como Oliver e Helena cresceram próximos, Oliver a treina para ser sua aliada, mostrando a ela como usar uma besta. Diggle desaprova que Oliver compartilhe seu segredo com Helena, já que não está certo de que ela pode ser confiável, mas Oliver se recusa a ouvir seus conselhos. Mas a busca de vingança de Helena mostra ser forte demais para Oliver lidar quando a jovem mata o chefão da Tríade e liberta um verdadeiro inferno.",
+					"quality": "720p",
+					"photo": "public/thumbnail/tt2193021-1-8.jpg",
+					"language": "Português, Inglês",
+					"magnet": "magnet:?xt=urn:btih:9dce9c9f84c560be50938d66f34c7f9959b0f580&dn=Arrow.1%26ordf%3B.Temporada.%5B2012.DUAL.AUDIO%5D.BDRip.720p&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337",
+					"adfly": "http:\/\/adf.ly\/1V2LF3",
+					"embed": [
+					{
+						"br" : "https:\/\/openload.co\/embed\/KPwuvmNqAVU\/",
+						"en" : "https:\/\/openload.co\/embed\/Qit2LV4hIsE\/"
+					}]				
+				},
+				{
+					"ep": "9",
+					"name": "Fim de Ano",
+					"date": "12 de Dezembro de 2012",			
+					"description" : "Oliver descobre que após ele e seu pai desaparecerem Moira e Thea pararam de celebrar o Natal. Determinado a recuperar o tempo perdido e o senso de normalidade na casa dos Queen, Oliver decide dar uma festa de Natal. Enquanto isso, Tommy pede para Laurel passar o Natal com ele, mas ela conta que a data é também o aniversário de sua irmã, Sara, e ela precisa estar com seu pai no dia. Tommy sugere mudar as coisas pode ser a melhor coisa para todos, mas Laurel não está certa de que seu pai está pronto.",
+					"quality": "720p",
+					"photo": "public/thumbnail/tt2193021-1-9.jpg",
+					"language": "Português, Inglês",
+					"magnet": "magnet:?xt=urn:btih:9dce9c9f84c560be50938d66f34c7f9959b0f580&dn=Arrow.1%26ordf%3B.Temporada.%5B2012.DUAL.AUDIO%5D.BDRip.720p&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337",
+					"adfly": "http:\/\/adf.ly\/1V2LF3",
+					"embed": [
+					{
+						"br" : "https:\/\/openload.co\/embed\/ILlQJjlweLQ\/",
+						"en" : "https:\/\/openload.co\/embed\/GXLi97trsFA\/"
+					}]				
+				},
+				{
+					"ep": "10",
+					"name": "Queimado",
+					"date": "16 de Janeiro de 2013",			
+					"description" : "A confiança de Oliver não é mais a mesma após o confronto com o Arqueiro Negro, portanto ele passa um tempo sem vestir o capuz. Entretanto, quando Laurel pede a ajuda do vigilante na investigação da morte suspeita de um bombeiro, ele relutantemente concorda em retomar sua jornada. Porém, a hesitação durante uma briga quase causa sua morte. Enquanto isso, Tommy organiza uma festa beneficente para os bombeiros, ao mesmo tempo em que Thea tenta tirar Moira de seu estado depressivo.",
+					"quality": "720p",
+					"photo": "public/thumbnail/tt2193021-1-10.jpg",
+					"language": "Português, Inglês",
+					"magnet": "magnet:?xt=urn:btih:9dce9c9f84c560be50938d66f34c7f9959b0f580&dn=Arrow.1%26ordf%3B.Temporada.%5B2012.DUAL.AUDIO%5D.BDRip.720p&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337",
+					"adfly": "http:\/\/adf.ly\/1V2LF3",
+					"embed": [
+					{
+						"br" : "https:\/\/openload.co\/embed\/7vzc65bSCRc\/",
+						"en" : "https:\/\/openload.co\/embed\/4eIfTFUDjSw\/"
+					}]				
+				},
+				{
+					"ep": "11",
+					"name": "Confie, Mas Verifique",
+					"date": "23 de Janeiro de 2013",			
+					"description" : "Oliver suspeita que o mentor de Diggle está roubando caminhões de armamento, porém Diggle acredita no contrário. Enquanto isso, Thea acredita que Moira e Malcolm estão tendo um caso. Para completar, Tommy, Laurel e Malcolm saem para jantar, porém as coisas não transcorrem conforme o esperado.",
+					"quality": "720p",
+					"photo": "public/thumbnail/tt2193021-1-11.jpg",
+					"language": "Português, Inglês",
+					"magnet": "magnet:?xt=urn:btih:9dce9c9f84c560be50938d66f34c7f9959b0f580&dn=Arrow.1%26ordf%3B.Temporada.%5B2012.DUAL.AUDIO%5D.BDRip.720p&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337",
+					"adfly": "http:\/\/adf.ly\/1V2LF3",
+					"embed": [
+					{
+						"br" : "https:\/\/openload.co\/embed\/iEwPZCmneso\/",
+						"en" : "https:\/\/openload.co\/embed\/_2QJV0XIROE\/"
+					}]				
+				},
+				{
+					"ep": "12",
+					"name": "Vertigo",
+					"date": "30 de Janeiro de 2013",			
+					"description" : "Thea está em apuros com a polícia depois que ela é pega usando uma droga chamada 'Vertigo'. Oliver acha que a única maneira de mantê-la fora da cadeia é encontrar o comerciante, um homem que atende pelo nome de 'o Conde'. Oliver pede ajuda para McKenna Hall, uma antiga paixão e atual vice-policial. Enquanto isso, Laurel entra em cena para defender Thea, e Felicity dá Oliver algumas notícias perturbadoras sobre Moira.",
+					"quality": "720p",
+					"photo": "public/thumbnail/tt2193021-1-12.jpg",
+					"language": "Português, Inglês",
+					"magnet": "magnet:?xt=urn:btih:9dce9c9f84c560be50938d66f34c7f9959b0f580&dn=Arrow.1%26ordf%3B.Temporada.%5B2012.DUAL.AUDIO%5D.BDRip.720p&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337",
+					"adfly": "http:\/\/adf.ly\/1V2LF3",
+					"embed": [
+					{
+						"br" : "https:\/\/openload.co\/embed\/JR3jk60AkG0\/",
+						"en" : "https:\/\/openload.co\/embed\/ZNvmP1IvcAE\/"
+					}]				
+				},
+				{
+					"ep": "13",
+					"name": "Traição",
+					"date": "30 de Janeiro de 2013",			
+					"description" : "Cyrus Vanch, um criminoso abominável, foi recentemente libertado da prisão e tem a intenção de voltar a garantir sua posição como líder do submundo. Seu primeiro passo é derrubar seu maior adversário na cidade - o Arqueiro. Enquanto isso, Oliver mostra á Moira o livro de seu pai e pergunta sobre os nomes da lista. Thea começa seu estágio com Laurel no escritório de assistência jurídica e o Detective Lance comete um erro fatal que coloca Laurel na mira de Vanch.",
+					"quality": "720p",
+					"photo": "public/thumbnail/tt2193021-1-13.jpg",
+					"language": "Português, Inglês",
+					"magnet": "magnet:?xt=urn:btih:9dce9c9f84c560be50938d66f34c7f9959b0f580&dn=Arrow.1%26ordf%3B.Temporada.%5B2012.DUAL.AUDIO%5D.BDRip.720p&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337",
+					"adfly": "http:\/\/adf.ly\/1V2LF3",
+					"embed": [
+					{
+						"br" : "https:\/\/openload.co\/embed\/dJsOGxcgxdc\/",
+						"en" : "https:\/\/openload.co\/embed\/Yd195fBZDak\/"
+					}]				
+				},
+				{
+					"ep": "14",
+					"name": "A Odisséia",
+					"date": "12 de Fevereiro de 2013",			
+					"description" : "Após ser baleado, Oliver recorre uma pessoa inesperada para ajudá-lo. Diggle fica surpreso quando vê Felicity adentrar a mansão arrastando um moribundo herói, portanto os dois se juntam para salvar a vida do amigo. Enquanto luta e fica entre a vida e a morte, o Arqueiro relembra um evento importante na ilha: sua tentativa de fuga ao lado de Slade Wilson.",
+					"quality": "720p",
+					"photo": "public/thumbnail/tt2193021-1-14.jpg",
+					"language": "Português, Inglês",
+					"magnet": "magnet:?xt=urn:btih:9dce9c9f84c560be50938d66f34c7f9959b0f580&dn=Arrow.1%26ordf%3B.Temporada.%5B2012.DUAL.AUDIO%5D.BDRip.720p&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337",
+					"adfly": "http:\/\/adf.ly\/1V2LF3",
+					"embed": [
+					{
+						"br" : "https:\/\/openload.co\/embed\/FpIyBip4TR8\/",
+						"en" : "https:\/\/openload.co\/embed\/l715eN8f-Vo\/"
+					}]				
+				},
+				{
+					"ep": "15",
+					"name": "Esquiva",
+					"date": "20 de Fevereiro de 2013",			
+					"description" : "Felicity acredita que Oliver trabalha demais e não se diverte, portanto ele chama a detetive Mckenna para um jantar. Enquanto isso, um ladrão de joias chamado Dodger ameaça Starling City e tem como alvo alguém muito importante para Oliver. Ao mesmo tempo, a bolsa de Thea é roubada por um ladrão chamado Roy Harper. Para completar, Moira arquiteta um plano contra Malcolm.",
+					"quality": "720p",
+					"photo": "public/thumbnail/tt2193021-1-15.jpg",
+					"language": "Português, Inglês",
+					"magnet": "magnet:?xt=urn:btih:9dce9c9f84c560be50938d66f34c7f9959b0f580&dn=Arrow.1%26ordf%3B.Temporada.%5B2012.DUAL.AUDIO%5D.BDRip.720p&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337",
+					"adfly": "http:\/\/adf.ly\/1V2LF3",
+					"embed": [
+					{
+						"br" : "https:\/\/openload.co\/embed\/2rryX-h588Y\/",
+						"en" : "https:\/\/openload.co\/embed\/qVS0tWDmxpo\/"
+					}]				
+				},
+				{
+					"ep": "16",
+					"name": "No Flagra",
+					"date": "27 de Fevereiro de 2013",			
+					"description" : "Moira contrata a Tríade para tirar Malcolm de seu caminho, e Deadshot faz seu retorno para completar o serviço. Sem saberem a verdade sobre Malcolm, Oliver e Diggle tentam o proteger.",
+					"quality": "720p",
+					"photo": "public/thumbnail/tt2193021-1-16.jpg",
+					"language": "Português, Inglês",
+					"magnet": "magnet:?xt=urn:btih:9dce9c9f84c560be50938d66f34c7f9959b0f580&dn=Arrow.1%26ordf%3B.Temporada.%5B2012.DUAL.AUDIO%5D.BDRip.720p&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337",
+					"adfly": "http:\/\/adf.ly\/1V2LF3",
+					"embed": [
+					{
+						"br" : "https:\/\/openload.co\/embed\/ux2On_6gR0k\/",
+						"en" : "https:\/\/openload.co\/embed\/EfIfyrwnqqg\/"
+					}]				
+				},
+				{
+					"ep": "17",
+					"name": "O Retorno da Caçadora",
+					"date": "20 de Marça de 2013",			
+					"description" : "Oliver está com data marcada para a abertura de sua nova casa noturna e o romance entre ele e McKenna está só esquentando. Mas toda a felicidade dele, a maior que já sentiu desde que voltou para Starling City, é ameaçada com o retorno da Caçadora, que quer destruir tudo e todos por quem ele se importa. Laurel e seu pai precisam lidar com o retorno de Dinah Lance, que diz ter provas de que Sara ainda está viva. E Thea consegue um emprego para Roy Harper na boate de Oliver, mas ele não está pronto ainda para largar a vida da criminalidade de vez. Por fim, Oliver e Tommy ficam animados quando conseguem confirmar a presença do músico Steve Aoki, que vai tocar na festa de abertura da casa noturna.",
+					"quality": "720p",
+					"photo": "public/thumbnail/tt2193021-1-17.jpg",
+					"language": "Português, Inglês",
+					"magnet": "magnet:?xt=urn:btih:9dce9c9f84c560be50938d66f34c7f9959b0f580&dn=Arrow.1%26ordf%3B.Temporada.%5B2012.DUAL.AUDIO%5D.BDRip.720p&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337",
+					"adfly": "http:\/\/adf.ly\/1V2LF3",
+					"embed": [
+					{
+						"br" : "https:\/\/openload.co\/embed\/WxnAiSLl7M0\/",
+						"en" : "https:\/\/openload.co\/embed\/fSwEzbEJqA0\/"
+					}]				
+				},
+				{
+					"ep": "18",
+					"name": "Salvação",
+					"date": "27 de Março de 2013",			
+					"description" : "Um revoltado residente de The Glades, que se intitula 'O Salvador' (convidado especial Christopher Redman), embarca num plano de sequestro e assassinato para punir aqueles que ele acredita terem feito mal aos residentes de sua vizinhança. Para piorar a situação, ele transmite esses assassinatos ao vivo pela internet, dizendo estar inspirado pelo justiceiro Arrow. Oliver fica horrorizado com essas declarações e promete impedir que “O Salvador” cometa mais crimes, e sua caçada se intensifica quando Thea vem até ele, em prantos, dizendo que Roy foi sequestrado. Laurel fica surpresa quando seu pai começa a acreditar nas ideias de sua mãe de que Sara ainda está viva. Por fim, Malcom diz a Moira para encontrar a pessoa responsável pela sua tentativa de assassinato.",
+					"quality": "720p",
+					"photo": "public/thumbnail/tt2193021-1-18.jpg",
+					"language": "Português, Inglês",
+					"magnet": "magnet:?xt=urn:btih:9dce9c9f84c560be50938d66f34c7f9959b0f580&dn=Arrow.1%26ordf%3B.Temporada.%5B2012.DUAL.AUDIO%5D.BDRip.720p&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337",
+					"adfly": "http:\/\/adf.ly\/1V2LF3",
+					"embed": [
+					{
+						"br" : "https:\/\/openload.co\/embed\/G6fMpIgW3wc\/",
+						"en" : "https:\/\/openload.co\/embed\/MSKNBUQjkmc\/"
+					}]				
+				},
+				{
+					"ep": "19",
+					"name": "Negócios Inacabados",
+					"date": "03 de Abril de 2013",			
+					"description" : "Quando uma jovem morre violentamente depois de uma festa em Verdant, o detetive Lance e seu novo parceiro, o detetive Hilton (convidado especial Roger Cross), informam a Oliver e Tommy que a vítima tinha usado a droga Vertigo. Oliver imediatamente faz uma visita ao manicômio onde O Conde está preso, mas descobre que ele não tem condições de traficar drogas dali. No entanto, quando O Conde foge, Starling City é inundada com mais violência relacionada ao Vertigo, e Oliver e Diggle tomam como missão localizar o traficante. Depois do detetive Lance encontrar evidências incriminadoras, Tommy faz de tudo para limpar o seu nome, e as consequências de suas ações o levam a um novo e inesperado caminho. Num flashback para a ilha, Oliver relembra as lições que aprendeu com Slade e Shado.",
+					"quality": "720p",
+					"photo": "public/thumbnail/tt2193021-1-19.jpg",
+					"language": "Português, Inglês",
+					"magnet": "magnet:?xt=urn:btih:9dce9c9f84c560be50938d66f34c7f9959b0f580&dn=Arrow.1%26ordf%3B.Temporada.%5B2012.DUAL.AUDIO%5D.BDRip.720p&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337",
+					"adfly": "http:\/\/adf.ly\/1V2LF3",
+					"embed": [
+					{
+						"br" : "https:\/\/openload.co\/embed\/qRhCAYZSE9U\/",
+						"en" : "https:\/\/openload.co\/embed\/NHx59GsWKBE\/"
+					}]				
+				},
+				{
+					"ep": "20",
+					"name": "Invasão à Domicílio",
+					"date": "24 de Abril de 2013",			
+					"description" : "Deadshot retorna para a cidade de Starling após matar um embaixador norte-americano e seis outras pessoas fora do país. Oliver, Diggle e Felicity descobrem que existe uma operação secreta para capturar o vilão vivo. Enquanto isso, Diggle está determinado a matar o assassino de seu irmão, com ou sem a ajuda do Arqueiro Verde. Já Laurel toma medidas drásticas para proteger uma jovem testemunha, o que aumenta a tensão entre Tommy e Oliver. Mais tarde, Roy Harper busca pistas para encontrar seu novo herói, porém acaba batendo de frente com o detetive Lance. De volta à ilha, Oliver relembra como Shado o ajudou a ganhar confiança com o arco.",
+					"quality": "720p",
+					"photo": "public/thumbnail/tt2193021-1-20.jpg",
+					"language": "Português, Inglês",
+					"magnet": "magnet:?xt=urn:btih:9dce9c9f84c560be50938d66f34c7f9959b0f580&dn=Arrow.1%26ordf%3B.Temporada.%5B2012.DUAL.AUDIO%5D.BDRip.720p&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337",
+					"adfly": "http:\/\/adf.ly\/1V2LF3",
+					"embed": [
+					{
+						"br" : "https:\/\/openload.co\/embed\/oQoMMEp2TKI\/",
+						"en" : "https:\/\/openload.co\/embed\/0TL5J0mrCxc\/"
+					}]				
+				},
+				{
+					"ep": "21",
+					"name": "O Empreendimento",
+					"date": "1 de Maio de 2013",			
+					"description" : "Com dificuldades para acertar as coisas com Tommy e Diggle, Oliver foca sua atenção em tentar riscar um novo nome da lista. Ao investigar o computador de um contador corrupto, Felicity descobre uma transação que pode ajudar Oliver a encontrar Walter. Para reconfirmar a pista, Oliver aposta em Felicity para acompanhá-lo em uma ação pela primeira vez. Em um flashback, Malcolm revela para Robert Queen e para Frank Chen os detalhes dolorosos da morte de sua esposa e como isso definiu seus planos para Glades. Para completar, Tommy deixa Laurel assustada com a verdade.",
+					"quality": "720p",
+					"photo": "public/thumbnail/tt2193021-1-21.jpg",
+					"language": "Português, Inglês",
+					"magnet": "magnet:?xt=urn:btih:9dce9c9f84c560be50938d66f34c7f9959b0f580&dn=Arrow.1%26ordf%3B.Temporada.%5B2012.DUAL.AUDIO%5D.BDRip.720p&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337",
+					"adfly": "http:\/\/adf.ly\/1V2LF3",
+					"embed": [
+					{
+						"br" : "https:\/\/openload.co\/embed\/COUk5-8zXi0\/",
+						"en" : "https:\/\/openload.co\/embed\/uE50w2V31Pw\/"
+					}]				
+				},
+				{
+					"ep": "22",
+					"name": "Escuridão Na Orla da Cidade",
+					"date": "8 de Maio de 2013",			
+					"description" : "Com o empreendimento a dias de acontecer, Malcolm retorna ao seu capuz negro para concluir a negociação com o sismólogo, Dr. Brion Markov, e sua equipe. Enquanto isso, Moira e Oliver precisam entreter uma série de visitantes inesperados. Mais tarde, confrontos encapuzados em casa e na Meryln Global revelam segredos obscuros, ao mesmo tempo em que Thea e Roy seguem em busca de um herói. Já Laurel decide algo após a revelação de Tommy. De volta à ilha, Oliver, Slace e Shado lutam para evitar que Fyers abata um avião.",
+					"quality": "720p",
+					"photo": "public/thumbnail/tt2193021-1-22.jpg",
+					"language": "Português, Inglês",
+					"magnet": "magnet:?xt=urn:btih:9dce9c9f84c560be50938d66f34c7f9959b0f580&dn=Arrow.1%26ordf%3B.Temporada.%5B2012.DUAL.AUDIO%5D.BDRip.720p&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337",
+					"adfly": "http:\/\/adf.ly\/1V2LF3",
+					"embed": [
+					{
+						"br" : "https:\/\/openload.co\/embed\/VRVCxYi7BQI\/",
+						"en" : "https:\/\/openload.co\/embed\/K_0DeW4H-MM\/"
+					}]				
+				},
+				{
+					"ep": "23",
+					"name": "Sacrifício",
+					"date": "15 de Maio de 2013",			
+					"description" : "Oliver e Diggle correm para impedir que o Arqueiro Negro se vingue dos Glades. No entanto, eles enfrentam um empecilho quando o detetive Lance detém Felicity para lhe fazer algumas perguntas. O relacionamento já tumultuoso de Tommy e Oliver fica ainda pior, depois que Oliver faz uma confissão sobre Laurel. Ao ouvir sobre os perigos nos Glades, Thea corre para encontrar Roy, colocando-se, sem perceber, diretamente na linha de fogo do terrível plano de Malcolm. Na ilha, Oliver, Slade e Shado se encontram numa luta de vida ou morte contra Fryers, enquanto seus mísseis miram num avião de passageiros da Ferris Air.",
+					"quality": "720p",
+					"photo": "public/thumbnail/tt2193021-1-23.jpg",
+					"language": "Português, Inglês",
+					"magnet": "magnet:?xt=urn:btih:9dce9c9f84c560be50938d66f34c7f9959b0f580&dn=Arrow.1%26ordf%3B.Temporada.%5B2012.DUAL.AUDIO%5D.BDRip.720p&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337",
+					"adfly": "http:\/\/adf.ly\/1V2LF3",
+					"embed": [
+					{
+						"br" : "https:\/\/openload.co\/embed\/fctMTE0gIvw\/",
+						"en" : "https:\/\/openload.co\/embed\/iYDafpgmqxc\/"
+					}]				
+				}]
+			}],
+			"two" : [
+			{
+				"name": "2ª temporada",
+				"year": "2013",
+				"overview": "23",
+				"episodes" : [ 
+				{
+					"ep": "00",
+					"name": "Em Breve",
+					"date": "Data",			
+					"description" : "Description",
+					"quality": "Quality",
+					"photo": "public/thumbnail/imdb-x-x.jpg",
+					"language": "Português, Inglês",
+					"magnet": "Magnet",
+					"adfly": "http:\/\/adf.ly\/",
+					"embed": [
+					{
+						"br" : "https:\/\/openload.co\/embed\/sdwCfctmzt4\/",
+						"en" : "https:\/\/openload.co\/embed\/sdwCfctmzt4\/"
+					}]				
+				}]
+			}],
+			"three" : [
+			{
+				"name": "3ª temporada",
+				"year": "2014",
+				"overview": "23",
+				"episodes" : [ 
+				{
+					"ep": "00",
+					"name": "Em Breve",
+					"date": "Data",			
+					"description" : "Description",
+					"quality": "Quality",
+					"photo": "public/thumbnail/imdb-x-x.jpg",
+					"language": "Português, Inglês",
+					"magnet": "Magnet",
+					"adfly": "http:\/\/adf.ly\/",
+					"embed": [
+					{
+						"br" : "https:\/\/openload.co\/embed\/sdwCfctmzt4\/",
+						"en" : "https:\/\/openload.co\/embed\/sdwCfctmzt4\/"
+					}]					
+				}]
+			}],
+			"four" : [
+			{
+				"name": "4ª temporada",
+				"year": "2015",
+				"overview": "23",
+				"episodes" : [ 
+				{
+					"ep": "00",
+					"name": "Em Breve",
+					"date": "Data",			
+					"description" : "Description",
+					"quality": "Quality",
+					"photo": "public/thumbnail/imdb-x-x.jpg",
+					"language": "Português, Inglês",
+					"magnet": "Magnet",
+					"adfly": "http:\/\/adf.ly\/",
+					"embed": [
+					{
+						"br" : "https:\/\/openload.co\/embed\/sdwCfctmzt4\/",
+						"en" : "https:\/\/openload.co\/embed\/sdwCfctmzt4\/"
+					}]				
+				}]
+			}]
+		}]
+	}		
+]

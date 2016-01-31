@@ -1,0 +1,13 @@
+					<div ng-repeat="post in movies | filter:genre" onclick="movies.show();" id="movie-{{ post.id }}" style="transition-delay: 0s, 0s; opacity: 1; transform: scale(1, 1);" class="movie" tabindex="4">
+						<div ng-click="showMovie(post.imdb);" class="movie_poster"><img src="{{ post.poster_m }}">
+							<div class="poster_slide">
+								<div class="watch"><span class="icon eye"></span></div>
+								<div class="stars">
+								<span class="icon star"></span>
+									{{ post.rating }} / 10
+								</div>
+							</div>
+						</div>
+						<div class="movie_title">{{ post.title }}</div>
+						<div class="movie_year">{{ post.year }}</div>
+					</div>

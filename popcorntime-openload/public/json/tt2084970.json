@@ -1,0 +1,27 @@
+[
+	{
+		"id": "18",
+		"imdb": "tt2084970",
+		"title": "O Jogo da Imitação",
+		"original": "The Imitation Game",
+		"year": "2015",
+		"runtime": "1h55min",
+		"rating": "8.1",
+		"date": "5 de fevereiro de 2015",
+		"description": "Durante a Segunda Guerra Mundial, o governo britânico monta uma equipe que tem por objetivo quebrar o Enigma, o famoso código que os alemães usam para enviar mensagens aos submarinos. Um de seus integrantes é Alan Turing (Benedict Cumberbatch), um matemático de 27 anos estritamente lógico e focado no trabalho, que tem problemas de relacionamento com praticamente todos à sua volta. Não demora muito para que Turing, apesar de sua intransigência, lidere a equipe. Seu grande projeto é construir uma máquina que permita analisar todas as possibilidades de codificação do Enigma em apenas 18 horas, de forma que os ingleses conheçam as ordens enviadas antes que elas sejam executadas. Entretanto, para que o projeto dê certo, Turing terá que aprender a trabalhar em equipe e tem Joan Clarke (Keira Knightley) sua grande incentivadora.",
+		"poster_l": "public/poster_l/tt2084970.jpg",
+		"genre": "Biografia, Drama, Suspense",
+		"quality": "720p",
+		"language": "Português",
+		"magnet": "magnet:?xt=urn:btih:85A6B9FD7826696A92297AE51137542ADA288602&dn=O%20Jogo%20Da%20Imita%c3%a7%c3%a3o%20%282015%29%20BRrip%20Blu-Ray%20720p%20Dublado%20-%20AndreTPF&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce",
+		"adfly": "http:\/\/adf.ly\/1UyOr1",
+		"seeds": "0",
+		"peers": "0",
+		"youtube": "https:\/\/youtube.com\/embed\/YIkKbMcJL_4\/",
+		"embed": [
+		{
+			"br" : "https:\/\/openload.co\/embed\/bFDBFatprIY\/",
+			"en" : "https:\/\/openload.co\/embed\/sdwCfctmzt4\/"
+		}]
+	}
+]

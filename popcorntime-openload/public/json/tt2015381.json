@@ -1,0 +1,27 @@
+[
+	{
+		"id": "12",
+		"imdb": "tt2015381",
+		"title": "Guardiões da Galáxia",
+		"original": "Guardians of the Galaxy",
+		"year": "2014",
+		"runtime": "2h1min",
+		"rating": "8.1",
+		"date": "31 de julho de 2014",
+		"description": "Peter Quill (Chris Pratt) foi abduzido da Terra quando ainda era criança. Adulto, fez carreira como saqueador e ganhou o nome de Senhor das Estrelas. Quando rouba uma esfera, na qual o poderoso vilão Ronan, da raça kree, está interessado, passa a ser procurado por vários caçadores de recompensas. Para escapar do perigo, Quill une forças com quatro personagens fora do sistema: Groot, uma árvore humanóide (Vin Diesel), a sombria e perigosa Gamora (Zoe Saldana), o guaxinim rápido no gatilho Rocket Racoon (Bradley Cooper) e o vingativo Drax, o Destruidor (Dave Bautista). Mas o Senhor das Estrelas descobre que a esfera roubada possui um poder capaz de mudar os rumos do universo, e logo o grupo deverá proteger o objeto para salvar o futuro da galáxia.",
+		"poster_l": "public/poster_l/tt2015381.jpg",
+		"genre": "Ação, Aventura, Ficção Científica",
+		"quality": "720p",
+		"language": "Português",
+		"magnet": "magnet:?xt=urn:btih:c3e228abf902389116392deefdf7d17f07c92aa0&dn=Guardi%26otilde%3Bes+da+Gal%26aacute%3Bxia+%282014%29+720p+5.1+Dublado+-+TPF&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%C2%A0",
+		"adfly": "http:\/\/adf.ly\/1UtYgI",
+		"seeds": "0",
+		"peers": "0",
+		"youtube": "https:\/\/youtube.com\/embed\/8VN_l57QWyQ\/",
+		"embed": [
+		{
+			"br" : "https:\/\/openload.co\/embed\/CPEDnA6s0c0\/",
+			"en" : "https:\/\/openload.co\/embed\/sdwCfctmzt4\/"
+		}]
+	}
+]

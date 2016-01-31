@@ -1,0 +1,27 @@
+[
+	{
+		"id": "4",
+		"imdb": "tt0482571",
+		"title": "O Grande Truque",
+		"original": "The Prestige",
+		"year": "2006",
+		"runtime": "2h8min",
+		"rating": "8.5",
+		"date": "2 de novembro de 2006",
+		"description": "Século XIX, Londres. Robert Angier (Hugh Jackman) e Alfred Borden (Christian Bale) se conhecem há muitos anos, desde que eram mágicos iniciantes. Desde então eles vivem competindo entre si, o que faz com que a amizade com o passar dos anos se transforme em uma grande rivalidade. Quando Alfred apresenta uma mágica revolucionária, Robert fica obcecado em descobrir como ele consegue realizá-la.",
+		"poster_l": "public/poster_l/tt0482571.jpg",
+		"genre": "Drama, Mistério, Ficção Científica",
+		"quality": "720p",
+		"language": "Português",
+		"magnet": "magnet:?xt=urn:btih:af5f653390552b92ba400f8f958758baace58962&dn=O+Grande+Truque+%282006%29+BDRip+bluray+720p+dublado+-+derew&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337",
+		"adfly": "http:\/\/adf.ly\/1UtEZ3",
+		"seeds": "0",
+		"peers": "0",
+		"youtube": "https:\/\/youtube.com\/embed\/I-zSIAgJszQ\/",
+		"embed": [
+		{
+			"br" : "https:\/\/openload.co\/embed\/wD9HWxgIhiw\/",
+			"en" : "https:\/\/openload.co\/embed\/sdwCfctmzt4\/"
+		}]
+	}
+]

@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Popcorn Time HD | Watch movies online</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">		
+		<link href='http://fonts.googleapis.com/css?family=Open+Sans:600' rel='stylesheet' type='text/css'>
+		<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+		<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular-route.min.js"></script>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+		<link href="assets/css/app.css" rel="stylesheet">
+		<script src="assets/js/app.js"></script>
+		<script src="assets/js/api.js"></script>
+		<link rel="shortcut icon" href="assets/images/popcorntime.ico">
+		<meta name="description" content="Popcorn Time Brasil, é a Primeria versão disponível em seu navegador! Ir os downloads! Assista aos melhores filmes em HD instantaneamente de graça!">
+	</head>
+	<body ng-app="movieApp">
+		<div id="home" ng-controller="movieShow">
+			<div id="header">
+				<div id="logo">Popcorn Time HD</div>		
+				<div id="toolbar">
+					<div id="toolbar_movies" class="toolbar_btn clickable bold section_indicator">
+					 	<a href="#/"><span>Filmes</span></a>
+					</div>
+					<div id="toolbar_tv" class="toolbar_btn bold clickable section_indicator">
+						 <a href="#/series"><span>Programas de Tv</span></a>
+					</div>
+					<div id="toolbar_genres" class="toolbar_btn clickable">
+						<nav id="primary_nav_wrap">
+						  <ul>
+						    <li><a><span>Generos</span>:&nbsp; <span class="selection_title" id="menu_title">Popular</span> &nbsp;</a>
+						      <ul>
+						        <li><a href="http://192.168.1.5/project/#/">Popular</a></li>
+						        <li><a href="http://192.168.1.5/project/#/genre/action">Ação</a></li>
+						        <li><a href="http://192.168.1.5/project/#/genre/adventure">Aventura</a></li>
+						        <li><a href="http://192.168.1.5/project/#/genre/animation">Animação</a></li>
+						        <li><a href="http://192.168.1.5/project/#/genre/biography">Biografia</a></li>
+						        <li><a href="http://192.168.1.5/project/#/genre/comedy">Comédia</a></li>
+						        <li><a href="http://192.168.1.5/project/#/genre/crime">Crime</a></li>
+						        <li><a href="http://192.168.1.5/project/#/genre/documentary">Documentário</a></li>
+						        <li><a href="http://192.168.1.5/project/#/genre/drama">Drama</a></li>
+						        <li><a href="http://192.168.1.5/project/#/genre/fantasy">Fantasia</a></li>
+						        <li><a href="http://192.168.1.5/project/#/genre/history">História</a></li>
+						        <li><a href="http://192.168.1.5/project/#/genre/horror">Terror</a></li>
+						        <li><a href="http://192.168.1.5/project/#/genre/music">Música</a></li>
+						        <li><a href="http://192.168.1.5/project/#/genre/mystery">Mistério</a></li>
+						        <li><a href="http://192.168.1.5/project/#/genre/romance">Romance</a></li>
+						        <li><a href="http://192.168.1.5/project/#/genre/thriller">Suspense</a></li>
+						        <li><a href="http://192.168.1.5/project/#/genre/sci-fi">Ficção Científica</a></li>
+						        <li><a href="http://192.168.1.5/project/#/genre/short">Curta</a></li>
+						       </ul>
+						</nav>
+					</div>
+
+				</div>
+
+				<div id="search_bar">
+					<form ng-submit="ngsearch()" ng-controller="movieSearch">
+						<input type="text" autocomplete="off" ng-model="search" placeholder="Pesquisar..." list="mylist" id="search_input">
+						<datalist class="list" id="mylist">
+							<option>A Escolha Perfeita 2</option>
+							<option>Divertida Mente</option>
+							<option>Perdido em Marte</option>
+							<option>Golpe Duplo</option>
+							<option>O Grande Truque</option>
+							<option>Truque de Mestre</option>
+							<option>A Teoria de Tudo</option>
+							<option>A Travessia</option>
+							<option>Descompensada</option>
+							<option>Ender's Game</option>
+							<option>Férias Frustradas</option>
+							<option>Guardiões da Galáxia</option>
+							<option>Hitman: Agente 47</option>
+							<option>Interestelar</option>
+							<option>Lucy</option>
+							<option>Maze Runner: Prova de Fogo</option>
+							<option>Maze Runner: Correr ou Morrer</option>
+							<option>O Jogo da Imitação</option>
+							<option>O Pequeno Príncipe</option>
+							<option>Pegando Fogo</option>
+							<option>Um Senhor Estagiário</option>
+							<option>Vingadores: Era de Ultron</option>
+							<option>Aposta Máxima</option>
+							<option>merican Hero</option>
+							<option>Carga Explosiva: O Legado</option>
+							<option>Como Sobreviver a Um Ataque Zumbi</option>
+							<option>Dragon Blade</option>
+							<option>Espírito de Lobo</option>
+							<option>Hotel Transilvânia 2</option>
+							<option>Mistress America</option>
+							<option>O Cara Perfeito</option>
+							<option>A Espiã Que Sabia de Menos</option>
+							<option>Bata Antes de Entrar</option>
+							<option>Evereste</option>
+							<option>Insurgente</option>
+							<option>Dope: Um Deslize Perigoso</option>
+							<option>Jurassic World - O Mundo dos Dinossauros</option>
+							<option>Arrow</option>
+							<option>O Destino de Júpiter</option>
+							<option>Operação Big Hero</option>
+							<option>Mad Max: Estrada da Fúria</option>
+							<option>Sniper Americano</option>
+							<option>Minions</option>
+							<option>007 Contra Spectre</option>
+							<option>Capitão América 2 - O Soldado Invernal</option>
+							<option>Cinderela</option>
+							<option>De Volta Ao Jogo</option>
+							<option>Entourage: Fama e Amizade</option>
+							<option>Ex_Machina: Instinto Artificial</option>
+							<option>Frozen - Uma Aventura Congelante</option>
+							<option>Magic Mike XXL</option>
+							<option>Malévola</option>
+							<option>Nocaute</option>
+							<option>Noite Sem Fim</option>
+							<option>Perigo Extremo</option>
+							<option>Sem Escalas</option>
+							<option>Transformers: A Era da Extinção</option>
+							<option>Whiplash - Em Busca da Perfeição</option>
+							<option>X-Men: Dias de um Futuro Esquecido</option>
+							<option>Ted 2</option>
+							<option>A Entrevista</option>
+							<option>The Ridiculous 6</option>
+							<option>Cidades de Papel</option>
+							<option>Corações de Ferro</option>
+							<option>(Des)Encontro Perfeito</option>
+							<option>Homem-Formiga</option>
+							<option>Missão Impossível - Nação Secreta</option>
+							<option>O Exterminador do Futuro: Gênesis</option>
+							<option>Pixels</option>
+							<option>Quarteto Fantastico</option>
+							<option>Terremoto - A Falha de San Andreas</option>
+							<option>Tomorrowland - Um Lugar Onde Nada é Impossível</option>
+						</datalist>
+						<span class="icon search"></span>
+					</form>
+				</div>
+			</div>
+			<div id="container">
+				<div id="movies_catalog" style="padding-left: 60px;">
+					<div ng-view></div>
+				</div>
+				<div ng-repeat="filmes in get">
+					<div id="cover" style="opacity: 1;display: none;"><div onclick="watch_br.hide();" class="close">X</div></div>
+					<div id="cover3" style="opacity: 1;display: none;"><div onclick="watch_en.hide();" class="close3">X</div></div>
+					<div id="cover2" style="opacity: 1;display: none;"><div onclick="trailer.hide();" class="close2">X</div></div>
+					<div id="watch_wrapper_br">
+						<iframe ng-src="{{ embed_br }}" scrolling="no" frameborder="0" width="100%" height="90%" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+					</div>
+					<div id="watch_wrapper_en">
+						<iframe ng-src="{{ embed_en }}" scrolling="no" frameborder="0" width="100%" height="90%" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+					</div>
+					<div id="youtube_wrapper">
+						<iframe width="100%" height="90%" ng-src="{{ youtube }}" frameborder="0" allowfullscreen></iframe>
+					</div>					
+					<div id="movies" style="top: 50%;" class="slider bottom movie"><div class="close" onclick="movies.hide();">&nbsp;X</div>
+						<div class="movie_poster"><img src="{{ filmes.poster_l }}"></div>
+						<div class="likebox"></div>
+						<div class="content">
+							<div class="title">{{ filmes.title }} <font size="3"><i>({{filmes.original}})</font></h1></div>
+							<div class="details">
+								<ul>
+									<li class="detail year">{{ filmes.year }}</li>
+									<li class="sep"></li>
+									<li class="detail runtime">{{ filmes.runtime }}</li>
+									<li class="sep"></li>
+									<li class="detail genre">{{ filmes.genre }}</li>
+									<li class="sep"></li>
+									<li class="detail stars"><a href="http://www.imdb.com/title/{{ filmes.imdb }}/" target="_blank">{{ filmes.rating }} / 10</a></li>
+								</ul>
+								<div style="clear:both"></div>
+							</div>
+							<div class="trailer_bar" style="display: inline;">
+								<div class="trailer_btn" onclick="trailer.show();"><span>►</span> &nbsp;<span data-in-trans="trailer">Trailer</span></div>
+							</div>
+							<div class="description">{{ filmes.description }}</div>
+							<div class="left_section">
+								<a class="watch_btn" onclick="watch_br.show();">ASSISTIR DUBLADO</a>
+								<a class="watch_btnv" onclick="watch_en.show();">ASSISTIR LEGENDADO</a>
+								<a class="watch_bto" href="{{ filmes.adfly }}"  target="_blank">DOWNLOAD TORRENT</a>
+							</div>							
+						</div>
+					</div>
+				</div>
+				<div id="cover" style="opacity: 1;display: none;"><div onclick="watchs_br.hide();" class="close">X</div></div>
+				<div id="cover3" style="opacity: 1;display: none;"><div onclick="watchs_en.hide();" class="close3">X</div></div>
+				<div id="cover2" style="opacity: 1;display: none;"><div onclick="trailers.hide();" class="close2">X</div></div>
+					<div id="watch_wrapper_s_br">
+						
+					</div>
+					<div id="watch_wrapper_s_en">
+						
+					</div>
+					<div id="youtube_wrapper_s">
+						<iframe width="100%" height="90%" ng-src="{{ youtubes }}" frameborder="0" allowfullscreen></iframe>
+					</div>		
+				<div id="series" class="slider bottom tvshow" style="top: 201%;"><div class="close" onclick="series.hide();">&nbsp;X</div>
+					<div class="episode_content">
+						<div id="ep_title" class="episode_title">{{title}}</div>
+						<div id="ep_description" class="episode_description">{{description}}</div>
+						<div id="watch_show" style="display: none;">
+							<a id="ep_embed" class="watch_btn" onclick="watchs_br.show();" style="visibility: visible;">ASSISTIR DUBLADO</a>
+							<a id="ep_embed" class="watch_btnv" onclick="watchs_en.show();" style="visibility: visible;">ASSISTIR LEGENDADO</a>
+							<a id="ep_adfly" class="watch_bto" href=""  target="_blank">DOWNLOAD TORRENT</a>
+						</div>
+						<div class="season_box">
+							<div class="choose_season">
+								<select id="season_select" onchange="season.select();" style="display: inline;">
+									
+								</select>
+							</div>
+							<div class="episodes_box" id="episodes_box1" style="display: inline;">
+								<div ng-repeat="one in ones">
+									<div ng-click="ep(one.ep, one.name, one.description, one.adfly, one.embed[0].br, one.embed[0].en)" id="epselct-{{ one.ep }}" class="episode">
+										<img src="{{ one.photo }}" style="width: 80px; height: 70px;">
+										<div class="episode_num">{{ one.ep }}</div>
+									</div>
+								</div>
+							</div>
+							<div class="episodes_box" id="episodes_box2" style="display: none;">
+								<div ng-repeat="two in twos">
+									<div ng-click="ep(two.ep, two.name, two.description, two.adfly, two.embed[0].br, two.embed[0].en)" id="epselct-{{ two.ep }}" class="episode">
+										<img src="{{ two.photo }}" style="width: 80px; height: 70px;">
+										<div class="episode_num">{{ two.ep }}</div>
+									</div>
+								</div>
+							</div>
+							<div class="episodes_box" id="episodes_box3" style="display: none;">
+								<div ng-repeat="three in threes">
+									<div ng-click="ep(three.ep, three.name, three.description, three.adfly, three.embed[0].br, three.embed[0].en)" id="epselct-{{ three.ep }}" class="episode">
+										<img src="{{ three.photo }}" style="width: 80px; height: 70px;">
+										<div class="episode_num">{{ three.ep }}</div>
+									</div>
+								</div>
+							</div>
+							<div class="episodes_box" id="episodes_box4" style="display: none;">
+								<div ng-repeat="four in fours">
+									<div ng-click="ep(four.ep, four.name, four.description, four.adfly, four.embed[0].br, four.embed[0].en)" id="epselct-{{ four.ep }}" class="episode">
+										<img src="{{ four.photo }}" style="width: 80px; height: 70px;">
+										<div class="episode_num">{{ four.ep }}</div>
+									</div>
+								</div>
+							</div>
+							<div class="episodes_box" id="episodes_box5" style="display: none;">
+								<div ng-repeat="fifth in fifths">
+									<div ng-click="ep(fifth.ep, fifth.name, fifth.description, fifth.adfly, fifth.embed[0].br, fifth.embed[0].en)" id="epselct-{{ fifth.ep }}" class="episode">
+										<img src="{{ fifth.photo }}" style="width: 80px; height: 70px;">
+										<div class="episode_num">{{ fifth.ep }}</div>
+									</div>
+								</div>
+							</div>
+							<div class="episodes_box" id="episodes_box6" style="display: none;">
+								<div ng-repeat="six in sixs">
+									<div ng-click="ep(six.ep, six.name, six.description, six.adfly, six.embed[0].br, six.embed[0].en)" id="epselct-{{ six.ep }}" class="episode">
+										<img src="{{ six.photo }}" style="width: 80px; height: 70px;">
+										<div class="episode_num">{{ six.ep }}</div>
+									</div>
+								</div>
+							</div>
+							<div class="episodes_box" id="episodes_box7" style="display: none;">
+								<div ng-repeat="seven in sevens">
+									<div ng-click="ep(seven.ep, seven.name, seven.description, seven.adfly, seven.embed[0].br, seven.embed[0].en)" id="epselct-{{ seven.ep }}" class="episode">
+										<img src="{{ seven.photo }}" style="width: 80px; height: 70px;">
+										<div class="episode_num">{{ seven.ep }}</div>
+									</div>
+								</div>
+							</div>
+							<div class="episodes_box" id="episodes_box8" style="display: none;">
+								<div ng-repeat="eight in eights">
+									<div ng-click="ep(eight.ep, eight.name, eight.description, eight.adfly, eight.embed[0].br, eight.embed[0].en)" id="epselct-{{ eight.ep }}" class="episode">
+										<img src="{{ eight.photo }}" style="width: 80px; height: 70px;">
+										<div class="episode_num">{{ eight.ep }}</div>
+									</div>
+								</div>
+							</div>
+							<div class="episodes_box" id="episodes_box9" style="display: none;">
+								<div ng-repeat="nine in nines">
+									<div ng-click="ep(nine.ep, nine.name, nine.description, nine.adfly, nine.embed[0].br, nine.embed[0].en)" id="epselct-{{ nine.ep }}" class="episode">
+										<img src="{{ nine.photo }}" style="width: 80px; height: 70px;">
+										<div class="episode_num">{{ nine.ep }}</div>
+									</div>
+								</div>
+							</div>
+							<div class="episodes_box" id="episodes_box10" style="display: none;">
+								<div ng-repeat="ten in tens">
+									<div ng-click="ep(ten.ep, ten.name, ten.description, ten.adfly, ten.embed[0].br, ten.embed[0].en)" id="epselct-{{ ten.ep }}" class="episode">
+										<img src="{{ ten.photo }}" style="width: 80px; height: 70px;">
+										<div class="episode_num">{{ ten.ep }}</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="movie_poster"><img src="{{ poster_l }}"></div>
+						<div class="content">
+								<div class="title">{{title}}</div>
+								<div class="details">
+									<ul>
+									<li class="detail year">{{year}}</li>
+									<li class="sep"></li>
+									<li class="detail runtime">{{runtime}}</li>
+									<li class="sep"></li>
+									<li class="detail genre">{{genre}}</li>
+									<li class="sep"></li>
+									<li class="detail stars"><a href="http://www.imdb.com/title/{{ imdb }}/" target="_blank">{{ rating }} / 10</a></li>
+								</ul>
+								<div style="clear:both"></div>
+							</div>
+							<div class="trailer_bar" style="display: inline;">
+								<div class="trailer_btn" onclick="trailers.show();"><span>►</span> &nbsp;<span>Trailer</span></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
