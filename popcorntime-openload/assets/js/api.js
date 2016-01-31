@@ -26,7 +26,7 @@ var movieApp = angular.module('movieApp', ['ngRoute']);
           });
     });
     movieApp.controller('movieListCtrl', function ($scope, $http){
-        $http.get('http://192.168.1.5/project/public/json/popular.json').success(function(movies) {
+        $http.get('https://rsr06468.github.io/rsr06468/popcorntime-openload/public/json/popular.json').success(function(movies) {
           $scope.movies = movies;
           document.getElementById("search_input").value = "";
            document.getElementById("menu_title").innerHTML = "Popular";
@@ -38,7 +38,7 @@ var movieApp = angular.module('movieApp', ['ngRoute']);
         });
     });
     movieApp.controller('movieSearchCtrl', function ($scope, $http, $routeParams, $window){
-        $http.get('http://192.168.1.5/project/public/json/list.json').success(function(movies) {
+        $http.get('https://rsr06468.github.io/rsr06468/popcorntime-openload/public/json/list.json').success(function(movies) {
           $scope.movies = movies;
           if($routeParams.movieSearch=="Arrow")
           {
@@ -65,7 +65,7 @@ var movieApp = angular.module('movieApp', ['ngRoute']);
         });
     });
     movieApp.controller('seriesListCtrl', function ($scope, $http){
-        $http.get('http://192.168.1.5/project/public/json/popular-tv.json').success(function(movies) {
+        $http.get('https://rsr06468.github.io/rsr06468/popcorntime-openload/public/json/popular-tv.json').success(function(movies) {
           $scope.movies = movies;
           document.getElementById("search_input").value = "";
           document.getElementById("toolbar_movies").className = "toolbar_btn clickable bold section_indicator";
@@ -77,7 +77,7 @@ var movieApp = angular.module('movieApp', ['ngRoute']);
         });
     });
     movieApp.controller('movieGenreCtrl', function ($scope, $http, $routeParams){
-        $http.get('http://192.168.1.5/project/public/json/list.json').success(function(movies) {
+        $http.get('https://rsr06468.github.io/rsr06468/popcorntime-openload/public/json/list.json').success(function(movies) {
           $scope.genre = $routeParams.movieGenre
           $scope.movies = movies;
           document.getElementById("search_input").value = "";
@@ -158,7 +158,7 @@ var movieApp = angular.module('movieApp', ['ngRoute']);
       });
     movieApp.controller('movieShow', function ($scope, $http, $sce){
        $scope.showMovie = function(movieID) {        
-        var url = 'http://192.168.1.5/project/public/json/'+ movieID +'.json';
+        var url = 'https://rsr06468.github.io/rsr06468/popcorntime-openload/public/json/'+ movieID +'.json';
         $http.get(url).success(function(movies) {
           $scope.get = movies;
           var movie = movies[0];
@@ -170,7 +170,7 @@ var movieApp = angular.module('movieApp', ['ngRoute']);
         });
       }
       $scope.showSerie = function(SerieID) {        
-        var url = 'http://192.168.1.5/project/public/json/'+ SerieID +'.json';
+        var url = 'https://rsr06468.github.io/rsr06468/popcorntime-openload/public/json/'+ SerieID +'.json';
         $http.get(url).success(function(series) {
         var serie = series[0];
         $scope.title = serie.title;
